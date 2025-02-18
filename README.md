@@ -66,7 +66,9 @@ Here’s the project structure presented in a tree-like format:
 ├── index.js
 ├── .gitignore
 └── .env
-``` 
+```
+
+![image](https://github.com/user-attachments/assets/06bae1f0-16bb-47db-b028-bdb905f2da46)
 
 This representation gives a clear, hierarchical view of the project structure.
 
