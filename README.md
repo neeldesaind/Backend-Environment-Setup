@@ -19,26 +19,26 @@ This repository is set up for a backend application using Express.js and MongoDB
 - In Script
 >  "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
 
-### Step 2: Create Files & Folder in root
+### Step 3: Create Files & Folder in root
 - public
 - src
 > mkdir public src
 <br>
 > touch .gitignore .env 
 
-### Step 3: Install Dependencies
+### Step 4: Install Dependencies
 - [Express]("https://expressjs.com/")
 - [Mongoose]("https://mongoosejs.com/)
 > npm install express mongoose
 
-### Step 4: Install Dev Dependencies
+### Step 5: Install Dev Dependencies
 - [Nodemon]("https://www.npmjs.com/package/nodemon")
 - [Dotenv]("https://www.npmjs.com/package/dotenv")
 > npm i -D dotenv nodemon 
 <br> OR <br>
 > npm install --save-dev dotenv nodemon
 
-### Step 5: Create folders in src
+### Step 6: Create folders in src
 - controllers (Contains logic for handling incoming requests)
 - db (Database connection setup Mongoose)
 - models (Defines MongoDB models schema for collections)
