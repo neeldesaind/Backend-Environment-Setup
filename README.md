@@ -14,6 +14,11 @@ This repository is set up for a backend application using Express.js and MongoDB
 ### Step 1: Generate a package.json file with default settings 
 > npm init 
 
+### Step 2: In package.json
+>  "type": "module"
+- In Script
+>  "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+
 ### Step 2: Create Files & Folder in root
 - public
 - src
