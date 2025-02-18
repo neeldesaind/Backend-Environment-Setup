@@ -93,7 +93,7 @@ This representation gives a clear, hierarchical view of the project structure.
 
 **Thank You!**
 
-Thank you for taking the time to explore this project. If you have any questions, suggestions, or would like to contribute, feel free to open an issue or submit a pull request. 
-<br> Your feedback and contributions are always welcome and appreciated!
-Happy coding! 🚀
+#### Thank you for taking the time to explore this project. If you have any questions, suggestions, or would like to contribute, feel free to open an issue or submit a pull request. 
+#### Your feedback and contributions are always welcome and appreciated!
+#### Happy coding! 🚀
 --- 
